@@ -1,0 +1,45 @@
+{
+  "phase": "2",
+  "artifact": "DRF Runtime Participation Proof",
+  "required_files": [
+    "PHASE2_SUBMISSION_README.md",
+    "PHASE2_FINAL_CERTIFICATION.md",
+    "phase2_evidence/PHASE2_DELIVERABLE_REPORT.md",
+    "phase2_evidence/PHASE2_PRODUCTION_READINESS.md",
+    "phase2_evidence/PHASE2_COMMIT_RECORD.md",
+    "phase2_evidence/E2E_VERIFICATION.json",
+    "phase2_evidence/REGISTRY_E2E.json",
+    "phase2_evidence/REGISTRY_RUNTIME_E2E.json",
+    "phase2_source/phase2_observability.py",
+    "phase2_source/test_phase2_hardening.py",
+    "phase2_source/phase2_e2e_verification.py",
+    "phase2_source/phase2_registry_runtime_e2e.py"
+  ],
+  "checks": {
+    "PHASE2_SUBMISSION_README.md": true,
+    "PHASE2_FINAL_CERTIFICATION.md": true,
+    "phase2_evidence/PHASE2_DELIVERABLE_REPORT.md": true,
+    "phase2_evidence/PHASE2_PRODUCTION_READINESS.md": true,
+    "phase2_evidence/PHASE2_COMMIT_RECORD.md": true,
+    "phase2_evidence/E2E_VERIFICATION.json": true,
+    "phase2_evidence/REGISTRY_E2E.json": true,
+    "phase2_evidence/REGISTRY_RUNTIME_E2E.json": true,
+    "phase2_source/phase2_observability.py": true,
+    "phase2_source/test_phase2_hardening.py": true,
+    "phase2_source/phase2_e2e_verification.py": true,
+    "phase2_source/phase2_registry_runtime_e2e.py": true,
+    "phase2_evidence/E2E_VERIFICATION.json:json_valid": true,
+    "phase2_evidence/REGISTRY_E2E.json:json_valid": true,
+    "phase2_evidence/REGISTRY_RUNTIME_E2E.json:json_valid": true,
+    "e2e_passed": true,
+    "registry_e2e_passed": true,
+    "runtime_registry_e2e_passed": true,
+    "no_credential_like_values": true
+  },
+  "passed": true,
+  "upstream_commits": {
+    "svacs_runtime": "30a305506b26677190a7d4bd8271543edcd91ad6",
+    "capability_registry": "6980ce5721385639e864eb6e082c836f83c625cb"
+  },
+  "content_digest": "e61858d79baabd2156513b33f36acad99e8c12810e111e9687ca9fdb819519cb"
+}

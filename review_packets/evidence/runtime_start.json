@@ -1,0 +1,8 @@
+{
+  "status_code": 200,
+  "json": {
+    "system": "SVACS",
+    "status": "ACTIVE",
+    "runtime": "LIVE"
+  }
+}

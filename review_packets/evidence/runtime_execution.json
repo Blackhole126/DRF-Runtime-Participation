@@ -1,0 +1,80 @@
+{
+  "status_code": 200,
+  "json": [
+    {
+      "trace_id": "c8da2e55-0b2c-414f-af42-9e2b3b0cc7cd",
+      "vessel_id": "368084090",
+      "signal_strength": 0.8,
+      "timestamp": "2022-01-01T00:00:00",
+      "classification": "UNKNOWN",
+      "confidence": 0.5,
+      "risk": "LOW",
+      "validation": "ALLOW",
+      "state": "TRANSIT",
+      "lat": 29.93174,
+      "lon": -89.99243,
+      "speed": 6.0,
+      "vessel_class": "UNKNOWN"
+    },
+    {
+      "trace_id": "514955f4-1966-49c5-9cfc-4da761068e9b",
+      "vessel_id": "368140160",
+      "signal_strength": 0.8,
+      "timestamp": "2022-01-01T00:00:00",
+      "classification": "UNKNOWN",
+      "confidence": 0.5,
+      "risk": "LOW",
+      "validation": "ALLOW",
+      "state": "TRANSIT",
+      "lat": 30.33475,
+      "lon": -87.14429,
+      "speed": 0.0,
+      "vessel_class": "UNKNOWN"
+    },
+    {
+      "trace_id": "20964cd4-aefc-4cad-81dd-e7212cac5948",
+      "vessel_id": "366941830",
+      "signal_strength": 0.8,
+      "timestamp": "2022-01-01T00:00:02",
+      "classification": "UNKNOWN",
+      "confidence": 0.5,
+      "risk": "LOW",
+      "validation": "ALLOW",
+      "state": "TRANSIT",
+      "lat": 29.30919,
+      "lon": -94.79702,
+      "speed": 0.0,
+      "vessel_class": "UNKNOWN"
+    },
+    {
+      "trace_id": "07c57eb9-3bf7-4fa3-8f18-a96b9449f15c",
+      "vessel_id": "316005971",
+      "signal_strength": 0.8,
+      "timestamp": "2022-01-01T00:00:06",
+      "classification": "UNKNOWN",
+      "confidence": 0.5,
+      "risk": "LOW",
+      "validation": "ALLOW",
+      "state": "TRANSIT",
+      "lat": 46.50268,
+      "lon": -84.35674,
+      "speed": 2.4,
+      "vessel_class": "UNKNOWN"
+    },
+    {
+      "trace_id": "fa060047-e013-4575-81c0-a1598cff4149",
+      "vessel_id": "316004054",
+      "signal_strength": 0.8,
+      "timestamp": "2022-01-01T00:00:07",
+      "classification": "UNKNOWN",
+      "confidence": 0.5,
+      "risk": "LOW",
+      "validation": "ALLOW",
+      "state": "TRANSIT",
+      "lat": 46.50326,
+      "lon": -84.37506,
+      "speed": 0.3,
+      "vessel_class": "UNKNOWN"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "status_code": 200,
+  "json": {
+    "status": "healthy",
+    "system": "SVACS Runtime",
+    "services": {
+      "runtime_chain": "ACTIVE",
+      "replay_engine": "ACTIVE",
+      "ttg": "ACTIVE",
+      "rl_engine": "ACTIVE"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "phase": "2",
+  "verification": "registry HTTP contract",
+  "checks": {
+    "health": true,
+    "registration": true,
+    "duplicate_rejected": true,
+    "invalid_required_rejected": true,
+    "discovery": true
+  },
+  "passed": true,
+  "module_name": "Phase2-E2E-322fecf1"
+}

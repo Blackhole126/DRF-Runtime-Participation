@@ -1,0 +1,17 @@
+{
+  "phase": "2",
+  "verification": "E2E",
+  "checks": {
+    "approved_flow_completed": true,
+    "rejected_flow_blocked": true,
+    "execution_id_present": true,
+    "trace_id_present": true,
+    "contract_version_present": true
+  },
+  "passed": true,
+  "approved_execution_id": "exec_153eb235",
+  "approved_trace_id": "trace_efe7dbec",
+  "rejected_execution_id": "exec_b045315e",
+  "rejected_trace_id": "trace_2d68892f",
+  "evidence_digest": "526a086d4833c6f4ec95e4db8e572f27b390479916eb9f1495d9cc5e88b3a2ad"
+}

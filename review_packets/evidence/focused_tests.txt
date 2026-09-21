@@ -1,0 +1,5 @@
+Command:
+python -m pytest tests/test_runtime_participation.py -q
+
+Result:
+5 passed in 0.08s

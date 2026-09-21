@@ -1,0 +1,20 @@
+{
+  "repository": "bhiv-svacs-unified-core",
+  "branch_target": "runtime-participation-proof",
+  "changed_files": [
+    "main.py",
+    "runtime_participation.py",
+    "runtime/ais_runtime_ingestor.py",
+    "runtime/janes_registry_loader.py",
+    "runtime/full_operational_chain.py",
+    "tests/test_runtime_participation.py"
+  ],
+  "sha256": {
+    "main.py": "5277d6a3d3adb42d5c81ace34f708feab2b769b3f83095f6ad76e65565b52096",
+    "runtime_participation.py": "4923e4a0157b8d2eee39d7dd6061b67f152845698531a580af9e7072a2e49ba7",
+    "runtime/ais_runtime_ingestor.py": "47a9e8f4658119050be640960cfc3cfc1ed1b48ec523de3b66a4d613f5831334",
+    "runtime/janes_registry_loader.py": "0b29a72e2ec90bab53996f8cf9ef1e7a88c82acb6fb703b239046843fb15de1f",
+    "runtime/full_operational_chain.py": "30c04d54a568865167dc94af8458d4f0c06742646ad850783c521d027b085ad0",
+    "tests/test_runtime_participation.py": "1f9d9532e26cd85b83a8c1db71bd0df18c73ea08c06cbf50918c29f34ecbefb8"
+  }
+}

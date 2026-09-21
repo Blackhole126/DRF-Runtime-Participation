@@ -1,0 +1,12 @@
+{
+  "status_code": "LOCAL_ADAPTER_CALL",
+  "json": {
+    "status": "REGISTRY_UNAVAILABLE",
+    "registry_url": "http://127.0.0.1:8999",
+    "last_attempt_utc": "2026-08-29T14:07:29.240946+00:00",
+    "response_status": null,
+    "response_body": null,
+    "error": "ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8999): Max retries exceeded with url: /modules (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8999): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "registry_record": null
+  }
+}

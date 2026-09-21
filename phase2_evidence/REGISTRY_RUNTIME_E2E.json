@@ -1,0 +1,20 @@
+{
+  "phase": "2",
+  "verification": "runtime-to-registry E2E",
+  "checks": {
+    "registration_status": true,
+    "canonical_fields": true,
+    "discovered_identity": true
+  },
+  "passed": true,
+  "registration_status": "DUPLICATE_ALREADY_REGISTERED",
+  "response_status": 409,
+  "discovered": {
+    "name": "SVACS Unified Core runtime",
+    "description": "{\"authority_boundary\": \"Owns only SVACS runtime execution/state/replay/telemetry for its documented chain; does not own registry governance, sovereign core authority, or unrelated application decisions.\", \"capability_scope\": \"Deterministic runtime execution, state, replay, provenance, telemetry and orchestration surfaces for the SVACS chain.\", \"compatibility\": \"Capability Registry Foundation REST API /modules schema v1.0.0; semantic version x.y.z required.\", \"owner\": \"BHEX project owner/team (exact named owner not established)\", \"provenance_note\": \"Runtime trace/provenance remains runtime-side because the existing registry schema has no structured provenance or trace fields.\", \"stable_identity\": \"SVACS Unified Core runtime\"}",
+    "category": "Runtime Execution Infrastructure",
+    "version": "1.0.0",
+    "author": "BHEX project owner/team (exact named owner not established)",
+    "id": 2
+  }
+}

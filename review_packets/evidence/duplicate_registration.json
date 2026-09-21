@@ -1,0 +1,21 @@
+{
+  "status_code": 200,
+  "json": {
+    "status": "DUPLICATE_ALREADY_REGISTERED",
+    "registry_url": "http://127.0.0.1:8003",
+    "last_attempt_utc": "2026-08-29T14:08:33.300646+00:00",
+    "response_status": 409,
+    "response_body": {
+      "detail": "Module already exists."
+    },
+    "error": null,
+    "registry_record": {
+      "name": "SVACS Unified Core runtime",
+      "description": "{\"authority_boundary\": \"Owns only SVACS runtime execution/state/replay/telemetry for its documented chain; does not own registry governance, sovereign core authority, or unrelated application decisions.\", \"capability_scope\": \"Deterministic runtime execution, state, replay, provenance, telemetry and orchestration surfaces for the SVACS chain.\", \"compatibility\": \"Capability Registry Foundation REST API /modules schema v1.0.0; semantic version x.y.z required.\", \"owner\": \"BHEX project owner/team (exact named owner not established)\", \"provenance_note\": \"Runtime trace/provenance remains runtime-side because the existing registry schema has no structured provenance or trace fields.\", \"stable_identity\": \"SVACS Unified Core runtime\"}",
+      "category": "Runtime Execution Infrastructure",
+      "version": "1.0.0",
+      "author": "BHEX project owner/team (exact named owner not established)",
+      "id": 1
+    }
+  }
+}

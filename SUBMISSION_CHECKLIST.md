@@ -1,0 +1,21 @@
+# Submission Checklist
+
+- [x] Existing runtime inspected.
+- [x] Existing Capability Registry contract inspected.
+- [x] No parallel registry introduced.
+- [x] Runtime startup proven locally.
+- [x] Registration proven locally.
+- [x] Registry record captured.
+- [x] Discovery proven.
+- [x] Health proven.
+- [x] Existing provenance/trace evidence exposed.
+- [x] Duplicate behavior captured.
+- [x] Invalid version behavior captured.
+- [x] Registry unavailable behavior captured.
+- [x] Focused tests passed.
+- [x] Review packet prepared.
+- [x] Evidence stored under `/review_packets/`.
+- [x] Focused code packet prepared.
+- [x] Reproduction instructions prepared.
+- [ ] Apply the package to the user's actual DRF `runtime-participation-proof` branch.
+- [ ] Run `git status`, `git diff --check`, and final commit/push in the actual DRF repository.
